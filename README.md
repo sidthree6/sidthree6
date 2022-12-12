@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there!! Are you lost? Well while you are here why don't I introduce myself. I am [Sidd!](https://www.siddpanchal.website/). 👋
+
+<a href="https://www.linkedin.com/in/siddharth-panchal-23405923/">
+  ![image](https://user-images.githubusercontent.com/1678719/207121451-a2b8ab76-b7d8-419b-b598-502b148a7a2e.png)
+</a>
+<a href="https://www.siddpanchal.website/">
+  ![image](https://user-images.githubusercontent.com/1678719/207121713-7b8293b7-3875-48f4-af32-e783d6ea7722.png)
+</a>
+<a href="https://discordapp.com/users/sidthree16#2863">
+  ![image](https://user-images.githubusercontent.com/1678719/207121927-360fcc23-4eb7-4eac-aaed-dbb2ea8228fa.png)
+</a>
 
 <!--
 **sidthree6/sidthree6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
