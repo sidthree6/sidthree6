@@ -7,7 +7,7 @@
   <img align="left" alt="Sidd's Website" width="22px" src="https://user-images.githubusercontent.com/1678719/207121713-7b8293b7-3875-48f4-af32-e783d6ea7722.png" />
 </a>
 <a href="https://discordapp.com/users/sidthree16#2863">
-  <img align="left" alt="Sidd's Discord" width="22px" src="https://user-images.githubusercontent.com/1678719/207121927-360fcc23-4eb7-4eac-aaed-dbb2ea8228fa.png />
+  <img align="left" alt="Sidd's Discord" width="22px" src="https://user-images.githubusercontent.com/1678719/207121927-360fcc23-4eb7-4eac-aaed-dbb2ea8228fa.png" />
 </a>
 
 <!--
