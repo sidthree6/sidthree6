@@ -10,6 +10,27 @@
   <img align="left" alt="Sidd's Discord" width="22px" src="https://user-images.githubusercontent.com/1678719/207121927-360fcc23-4eb7-4eac-aaed-dbb2ea8228fa.png" />
 </a>
 
+<br/>
+<br/>
+
+- 👨‍💻 I’m currently working as Pipeline Technical Director in Animation studio working full time with Python.😃
+- 🌱 I’m currently learning, [Flutter](https://flutter.dev/) [Next.Js](https://nextjs.org/) & [React](https://reactjs.org/)
+- 📫 How to reach me: Twitter Email [piddhu001@gmail.com](mailto:psiddhu001@gmail.com) or Discord [@sidthree16](https://discordapp.com/users/sidthree16#2863)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
 <!--
 **sidthree6/sidthree6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
