@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 👨‍💻 I’m currently working as Pipeline Technical Director in Animation studio working full time with Python.😃
+- 👨‍💻 I’m currently working as Pipeline TD in Animation studio working full time with Python.😃
 - 🌱 I’m currently learning, [Flutter](https://flutter.dev/) [Next.Js](https://nextjs.org/) & [React](https://reactjs.org/)
 - 📫 How to reach me: Twitter Email [piddhu001@gmail.com](mailto:psiddhu001@gmail.com) or Discord [@sidthree16](https://discordapp.com/users/sidthree16#2863)
 
